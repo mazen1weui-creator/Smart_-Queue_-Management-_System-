@@ -1,5 +1,5 @@
 
-# 🚀 Smart Queue Management System
+#  Smart Queue Management System
 
 <p align="center">
   <img src="https://img.shields.io/badge/PROJECT-65-blue?style=for-the-badge">
@@ -13,7 +13,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The Smart Queue Management System aims to organize queues, reduce waiting times, and improve the service experience through efficient queue management.
 
