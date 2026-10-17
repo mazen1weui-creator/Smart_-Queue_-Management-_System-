@@ -1,9 +1,9 @@
 🚀 Smart Queue Management System
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Project-65-2563EB?style=for-the-badge" alt="Project 65"/>
-  <img src="https://img.shields.io/badge/Group-2-7C3AED?style=for-the-badge" alt="Group 2"/>
-  <img src="https://img.shields.io/badge/Day-Thursday-0891B2?style=for-the-badge" alt="Thursday"/>
+  <img src="https://img.shields.io/badge/PROJECT-65-blue?style=for-the-badge" alt="Project 65">
+  <img src="https://img.shields.io/badge/GROUP-2-purple?style=for-the-badge" alt="Group 2">
+  <img src="https://img.shields.io/badge/DAY-THURSDAY-00A6A6?style=for-the-badge" alt="Thursday">
 </p><p align="center">
   <b>Smarter Queues • Better Experience • Faster Service</b>
 </p>---
@@ -29,7 +29,6 @@ Group Day| Thursday
 ---
 
 <p align="center">
-  💙 <b>Together for a Smarter Future</b>
-  <br/>
+  💙 <b>Together for a Smarter Future</b><br>
   <i>Smart Queue Management System — Group 2</i>
 </p>
